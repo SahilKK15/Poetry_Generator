@@ -33,7 +33,3 @@ In each loop:
   <li>Appending the obtained word to the seed</li>
 </ul>
 
-# Final Comments
-This simple project was done to understand NLP Preprocessing and Modelling Techniques in depth, as a part of Coursera's course <a href="https://www.coursera.org/learn/natural-language-processing-tensorflow">Natural Language Processing in TensorFlow</a>.
-<br>
-Thanks for stopping by! Happy Coding :))
